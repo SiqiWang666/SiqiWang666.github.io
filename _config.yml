@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Siqi Wang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a recent graduate from GWU who has passionate about backend development and distributed system."
+  bio    : "I am a recent graduate from GWU who is passionate about backend development and distributed system."
   location : "Washington, DC"
   links:
     - label: "GitHub"
