@@ -1,5 +1,5 @@
 ---
-title: "Intro to Transact-SQL"
+title: "Transact-SQL"
 date: 2020-06-09
 read_time: true
 categories:

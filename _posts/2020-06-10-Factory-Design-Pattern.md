@@ -104,7 +104,7 @@ In this way, using a method to create objects in the base class. This is how I u
 
 ### Reference Code
 
-The code below are written 💻 in `c#`.
+The code below is written 💻 in `c#`.
 
 ```c#
 public class BaseCustomer
