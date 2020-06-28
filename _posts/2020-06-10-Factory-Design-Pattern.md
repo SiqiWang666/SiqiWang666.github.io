@@ -1,5 +1,5 @@
 ---
-title: "Creating object in the base class?"
+title: "Referencing object with the base class reference?"
 date: 2020-06-20
 read_time: true
 categories:
@@ -9,7 +9,7 @@ tags:
   - c#
 ---
 
-I always got confused about why creating an object in the base class. Recently, I finally figured out why.
+I always got confused about why creating an subclass object and referencing it with the base class. Recently, I finally figured out why.
 
 Let's first take a took at an example. There is a base class called `BaseCustomer`, with fields `Mobile` and `Name`, and methods `AddCustomer()` and `DisplayInfo()`. `PrimeCustomer` inherits from `BaseCusomer` with extra fields `ValidTo` and overrides the methods.
 
