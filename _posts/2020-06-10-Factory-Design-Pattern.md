@@ -6,7 +6,7 @@ categories:
   - post
 tags:
   - design pattern
-  - c#
+  - C#
 ---
 
 I always got confused about why creating an subclass object and referencing it with the base class. Recently, I finally figured out why.
