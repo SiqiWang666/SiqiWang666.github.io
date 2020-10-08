@@ -10,11 +10,11 @@
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# you will see th accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Siqi's Website"
-subtitle: "Software Developer | Learner"
+title: "Savannah's Website"
+subtitle: "Software Developer"
 email: "siqi_astrid@gwu.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -25,6 +25,7 @@ github_username: username
 minimal_mistakes_skin: dirt
 search: true
 read_time: false
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
@@ -60,10 +61,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Siqi Wang"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a ABS workout lover."
-  location : "Washington, DC"
+  name: "Savannah"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am a ABS workout lover."
+  location: "Washington, DC"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
