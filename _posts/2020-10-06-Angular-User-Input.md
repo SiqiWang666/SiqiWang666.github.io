@@ -4,6 +4,7 @@ date: 2020-10-06
 read_time: false
 categories:
   - Blog
+  - ComicStrips
 tags:
   - Angular
 gallery1:
