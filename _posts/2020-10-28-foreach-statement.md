@@ -2,6 +2,7 @@
 title: "`foreach` statement in c#"
 date: 2020-10-28
 read_time: false
+show_date: true
 categories:
   - Blog
   - ComicStrips

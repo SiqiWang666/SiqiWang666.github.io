@@ -2,11 +2,12 @@
 title: "Get User Input in Angular?"
 date: 2020-10-06
 read_time: false
+show_date: true
 categories:
   - Blog
   - ComicStrips
 tags:
-  - Angular
+  - Angular 8
 gallery1:
   - image_path: /assets/images/Angular/user input/p1.png
     alt: "p-1"
