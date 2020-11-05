@@ -4,10 +4,9 @@ date: 2020-10-28
 read_time: false
 show_date: true
 categories:
-  - Blog
-  - ComicStrips
-tags:
   - c#
+tags:
+  - comic strip
 gallery1:
   - image_path: /assets/images/csharp/for-each.png
     alt: "foreach statement"
